@@ -1,4 +1,4 @@
-# PuhfyDev | Im just better
+# Puhfy | Im just better
 
 ## Info
 - 👋 Hi, I’m @Puhfy
