@@ -3,8 +3,7 @@
 ## Info
 - 👋 Hi, I’m @Puhfy
 - 👀 I’m interested in Cheating/Hacking/Programming
-- 📖 I’m currently learning Java, C#/C++, ReactTS
+- 📖 I’m currently learning Java, C#/C++, ReactTS, Rust
 
 ## Projects
-- Koriko client
-- Sparks
+- Waffle Blox
