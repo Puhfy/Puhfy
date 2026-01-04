@@ -1,10 +1,7 @@
-# Puhfy | Im just better
+# Puhfy | I like bats
 
 ## Info
 - 👋 Hi, I’m @Puhfy
-- 👀 I’m interested in Cheating/Hacking/Programming
-- 📖 I’m currently learning Java, C#/C++, ReactTS, Rust
+- 👀 I’m interested in developing.
+- 📖 I’m currently learning Java, C#/C++, Rust
 
-## Projects
-- Waffle Blox
-- BGSN
